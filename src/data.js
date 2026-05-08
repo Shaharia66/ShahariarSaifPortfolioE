@@ -7,7 +7,6 @@ const data = {
   phoneHref: "tel:+8801714374806",
   location: "Satkhira, Bangladesh",
   linkedin: "https://www.linkedin.com/in/gazi-shahariar-hasan-77807a373/",
-  portfolio: "https://portfoliowebsiteshahariarsaif.netlify.app/",
   objective:
     "Electrical and Electronic Engineering graduate with a research thesis on perovskite solar cells and strong coursework in Optoelectronics, Compound Semiconductors, and VLSI. Passionate about semiconductor devices, advanced electronic circuits, and full-stack software development.",
   interests: [

@@ -11,7 +11,6 @@ export default function Contact() {
           ['✉️', 'Email',    data.email,    data.emailHref],
           ['📞', 'Phone',    data.phone,    data.phoneHref],
           ['🔗', 'LinkedIn', 'Gazi Shahariar Hasan', data.linkedin],
-          ['🌐', 'Portfolio','portfoliowebsiteshahariarsaif.netlify.app', data.portfolio],
           ['📍', 'Location', data.location, null],
         ].map(([icon, label, val, href]) => (
           <Card key={label} style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
