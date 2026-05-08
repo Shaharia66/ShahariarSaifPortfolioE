@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShahariarSaifPortfolioE/static/css/main.1f99cecf.css",
+    "main.js": "/ShahariarSaifPortfolioE/static/js/main.1abbe796.js",
+    "index.html": "/ShahariarSaifPortfolioE/index.html",
+    "main.1f99cecf.css.map": "/ShahariarSaifPortfolioE/static/css/main.1f99cecf.css.map",
+    "main.1abbe796.js.map": "/ShahariarSaifPortfolioE/static/js/main.1abbe796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f99cecf.css",
+    "static/js/main.1abbe796.js"
+  ]
+}
